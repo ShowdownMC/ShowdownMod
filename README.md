@@ -1,0 +1,1 @@
+[![build](https://github.com/ShowdownMC/ShowdownMod/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/ShowdownMC/ShowdownMod/actions/workflows/build.yml)
