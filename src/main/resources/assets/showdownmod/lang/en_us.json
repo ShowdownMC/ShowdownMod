@@ -1,5 +1,3 @@
 {
-  "itemGroup.showdownmod": "Example Mod Tab",
-  "block.showdownmod.example_block": "Example Block",
-  "item.showdownmod.example_item": "Example Item"
+  "itemGroup.showdownmod": "ShowdownMod"
 }
